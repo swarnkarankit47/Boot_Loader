@@ -6,7 +6,7 @@
 
 #include "types.h"
 
-
+void NewFunc(void);
 void UART_Config(void);
 void UART_Deconfig(void);
 t_eStatus UART_SendCommand(t_sCmdStruct commandstruct);
