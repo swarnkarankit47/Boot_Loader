@@ -1,0 +1,13 @@
+{
+  "id": "ankit",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCory8ZXIDr0I14WylNqa89vt0TBBXF9egDqoEzW0AQs0UTVVFIwkIviK7NjxTGBVDcUDNPKtFTiN6Xw+Sm3ZmfH5bZdTrf5oLQyFhd7/oGWfH3ZA5CESEDln2WiHHYfaRefbP01mQWS0TT/rCvVxlNR++jRFOU9FpbSueZwc2qL7ZjniyAlWJJlseodD1gERAOm6X/CC8PlK4RbN0zo44Yea3KTdthMZUfaGs9RWv60MC7wutIM2spX/s9QddwRTcAncWTLW3e3xeJhCisnIX3sPtnmCM+Di1PD9a3tCuSVwpupB1uxLaYsqUyYMyihmtc0sLMy3l2WMLdJnHuEM2yEgaTVjKlKQo0AYB/3phaeWos3srPhwrP8eArID3hhqzDIV8ciO/xY9wE2OsSh9FX0wVnnkWQb1qtBhYHv6MbHWMDzqZZHJvWvUdp1nBBudUXlmvgxvABNmhzAQY0f1NlS2M2FZ7Qunpip2nIcSdr4m9gAqckowk7wETOpDlh+25HM3w7vl0C1ggl3Qz08FqnS/vDZRFhOMPcgWnPHwtK7ym51VZkIjhwCtwGH+PU2l9I3es8uVgPBC526NeH6D9IgASqLOofEUK4VzhHu5i/LjHYTNvNlSXgbYZcQRvQW55ETcALr/e4NSxZ/y7dWk99xUksbYPDsoHAA8jrTYoSow== uday.agarwal@talentica.com"
+  ],
+  "groups": [
+    "sysadmin"
+  ],
+  "emails": ["uday.agarwal@mistsys.com"],
+  "shell": "/bin/bash",
+  "comment": "Uday Agarwal",
+  "vim": true
+}
